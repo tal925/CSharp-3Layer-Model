@@ -1,0 +1,83 @@
+M:\git\CSharp-3Layer-Model\bin\BL.deps.json
+M:\git\CSharp-3Layer-Model\bin\BL.dll
+M:\git\CSharp-3Layer-Model\bin\BL.pdb
+M:\git\CSharp-3Layer-Model\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+M:\git\CSharp-3Layer-Model\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+M:\git\CSharp-3Layer-Model\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+M:\git\CSharp-3Layer-Model\BL\obj\Debug\BL.AssemblyInfo.cs
+M:\git\CSharp-3Layer-Model\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+M:\git\CSharp-3Layer-Model\BL\obj\Debug\BL.csproj.CopyComplete
+M:\git\CSharp-3Layer-Model\BL\obj\Debug\BL.dll
+M:\git\CSharp-3Layer-Model\BL\obj\Debug\refint\BL.dll
+M:\git\CSharp-3Layer-Model\BL\obj\Debug\BL.pdb
+M:\git\CSharp-3Layer-Model\BL\obj\Debug\ref\BL.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\BL.deps.json
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\BL.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\BL.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\BL.AssemblyInfo.cs
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\BL.sourcelink.json
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\BL.csproj.Up2Date
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\BL.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\refint\BL.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\BL.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\ref\BL.dll
+C:\Users\1\Desktop\CSharp-3Layer-Model\bin\BL.deps.json
+C:\Users\1\Desktop\CSharp-3Layer-Model\bin\BL.dll
+C:\Users\1\Desktop\CSharp-3Layer-Model\bin\BL.pdb
+C:\Users\1\Desktop\CSharp-3Layer-Model\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\CSharp-3Layer-Model\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\CSharp-3Layer-Model\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\CSharp-3Layer-Model\BL\obj\Debug\BL.AssemblyInfo.cs
+C:\Users\1\Desktop\CSharp-3Layer-Model\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\CSharp-3Layer-Model\BL\obj\Debug\BL.sourcelink.json
+C:\Users\1\Desktop\CSharp-3Layer-Model\BL\obj\Debug\BL.csproj.Up2Date
+C:\Users\1\Desktop\CSharp-3Layer-Model\BL\obj\Debug\BL.dll
+C:\Users\1\Desktop\CSharp-3Layer-Model\BL\obj\Debug\refint\BL.dll
+C:\Users\1\Desktop\CSharp-3Layer-Model\BL\obj\Debug\BL.pdb
+C:\Users\1\Desktop\CSharp-3Layer-Model\BL\obj\Debug\ref\BL.dll
+C:\Users\1\Downloads\CSharp-3Layer-Model\bin\BL.deps.json
+C:\Users\1\Downloads\CSharp-3Layer-Model\bin\BL.dll
+C:\Users\1\Downloads\CSharp-3Layer-Model\bin\BL.pdb
+C:\Users\1\Downloads\CSharp-3Layer-Model\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\1\Downloads\CSharp-3Layer-Model\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Downloads\CSharp-3Layer-Model\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+C:\Users\1\Downloads\CSharp-3Layer-Model\BL\obj\Debug\BL.AssemblyInfo.cs
+C:\Users\1\Downloads\CSharp-3Layer-Model\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\CSharp-3Layer-Model\BL\obj\Debug\BL.sourcelink.json
+C:\Users\1\Downloads\CSharp-3Layer-Model\BL\obj\Debug\BL.csproj.Up2Date
+C:\Users\1\Downloads\CSharp-3Layer-Model\BL\obj\Debug\BL.dll
+C:\Users\1\Downloads\CSharp-3Layer-Model\BL\obj\Debug\refint\BL.dll
+C:\Users\1\Downloads\CSharp-3Layer-Model\BL\obj\Debug\BL.pdb
+C:\Users\1\Downloads\CSharp-3Layer-Model\BL\obj\Debug\ref\BL.dll
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\bin\BL.deps.json
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\bin\BL.dll
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\bin\BL.pdb
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\BL\obj\Debug\BL.AssemblyInfo.cs
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\BL\obj\Debug\BL.sourcelink.json
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\BL\obj\Debug\BL.csproj.Up2Date
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\BL\obj\Debug\BL.dll
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\BL\obj\Debug\refint\BL.dll
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\BL\obj\Debug\BL.pdb
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\BL\obj\Debug\ref\BL.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\bin\BL.deps.json
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\bin\BL.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\bin\BL.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\BL\obj\Debug\BL.AssemblyInfo.cs
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\BL\obj\Debug\BL.sourcelink.json
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\BL\obj\Debug\BL.csproj.Up2Date
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\BL\obj\Debug\BL.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\BL\obj\Debug\refint\BL.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\BL\obj\Debug\BL.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\BL\obj\Debug\ref\BL.dll

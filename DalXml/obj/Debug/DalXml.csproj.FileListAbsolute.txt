@@ -1,0 +1,97 @@
+C:\Users\1\Desktop\CSharp-3Layer-Model2\bin\DalXml.deps.json
+C:\Users\1\Desktop\CSharp-3Layer-Model2\bin\DalXml.dll
+C:\Users\1\Desktop\CSharp-3Layer-Model2\bin\DalXml.pdb
+C:\Users\1\Desktop\CSharp-3Layer-Model2\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\CSharp-3Layer-Model2\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\CSharp-3Layer-Model2\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\CSharp-3Layer-Model2\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+C:\Users\1\Desktop\CSharp-3Layer-Model2\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\CSharp-3Layer-Model2\DalXml\obj\Debug\DalXml.sourcelink.json
+C:\Users\1\Desktop\CSharp-3Layer-Model2\DalXml\obj\Debug\DalXml.csproj.Up2Date
+C:\Users\1\Desktop\CSharp-3Layer-Model2\DalXml\obj\Debug\DalXml.dll
+C:\Users\1\Desktop\CSharp-3Layer-Model2\DalXml\obj\Debug\refint\DalXml.dll
+C:\Users\1\Desktop\CSharp-3Layer-Model2\DalXml\obj\Debug\DalXml.pdb
+C:\Users\1\Desktop\CSharp-3Layer-Model2\DalXml\obj\Debug\ref\DalXml.dll
+M:\git\CSharp-3Layer-Model\bin\DalXml.deps.json
+M:\git\CSharp-3Layer-Model\bin\DalXml.dll
+M:\git\CSharp-3Layer-Model\bin\DalXml.pdb
+M:\git\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+M:\git\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+M:\git\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+M:\git\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+M:\git\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+M:\git\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.dll
+M:\git\CSharp-3Layer-Model\DalXml\obj\Debug\refint\DalXml.dll
+M:\git\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.pdb
+M:\git\CSharp-3Layer-Model\DalXml\obj\Debug\ref\DalXml.dll
+M:\git\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.csproj.CopyComplete
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\DalXml.deps.json
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\DalXml.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\DalXml.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.sourcelink.json
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.csproj.Up2Date
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalXml\obj\Debug\refint\DalXml.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalXml\obj\Debug\ref\DalXml.dll
+C:\Users\1\Desktop\CSharp-3Layer-Model\bin\DalXml.deps.json
+C:\Users\1\Desktop\CSharp-3Layer-Model\bin\DalXml.dll
+C:\Users\1\Desktop\CSharp-3Layer-Model\bin\DalXml.pdb
+C:\Users\1\Desktop\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+C:\Users\1\Desktop\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.sourcelink.json
+C:\Users\1\Desktop\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.csproj.Up2Date
+C:\Users\1\Desktop\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.dll
+C:\Users\1\Desktop\CSharp-3Layer-Model\DalXml\obj\Debug\refint\DalXml.dll
+C:\Users\1\Desktop\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.pdb
+C:\Users\1\Desktop\CSharp-3Layer-Model\DalXml\obj\Debug\ref\DalXml.dll
+C:\Users\1\Downloads\CSharp-3Layer-Model\bin\DalXml.deps.json
+C:\Users\1\Downloads\CSharp-3Layer-Model\bin\DalXml.dll
+C:\Users\1\Downloads\CSharp-3Layer-Model\bin\DalXml.pdb
+C:\Users\1\Downloads\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+C:\Users\1\Downloads\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Downloads\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+C:\Users\1\Downloads\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+C:\Users\1\Downloads\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.sourcelink.json
+C:\Users\1\Downloads\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.csproj.Up2Date
+C:\Users\1\Downloads\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.dll
+C:\Users\1\Downloads\CSharp-3Layer-Model\DalXml\obj\Debug\refint\DalXml.dll
+C:\Users\1\Downloads\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.pdb
+C:\Users\1\Downloads\CSharp-3Layer-Model\DalXml\obj\Debug\ref\DalXml.dll
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\bin\DalXml.deps.json
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\bin\DalXml.dll
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\bin\DalXml.pdb
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.sourcelink.json
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.csproj.Up2Date
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.dll
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\DalXml\obj\Debug\refint\DalXml.dll
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.pdb
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\DalXml\obj\Debug\ref\DalXml.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\bin\DalXml.deps.json
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\bin\DalXml.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\bin\DalXml.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.sourcelink.json
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.csproj.Up2Date
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\DalXml\obj\Debug\refint\DalXml.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\DalXml\obj\Debug\DalXml.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\DalXml\obj\Debug\ref\DalXml.dll

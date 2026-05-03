@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSale>
+  <Sale>
+    <SaleId>41</SaleId>
+    <ProductID>1013</ProductID>
+    <MinProductSale>66</MinProductSale>
+    <SumPriceSale>54</SumPriceSale>
+    <IfEveryOne>true</IfEveryOne>
+    <StartrSale>28/04/2026 01:47:58</StartrSale>
+    <EndSale>28/04/2026 01:47:58</EndSale>
+  </Sale>
+  <Sale>
+    <SaleId>42</SaleId>
+    <ProductID>1014</ProductID>
+    <MinProductSale>2</MinProductSale>
+    <SumPriceSale>90</SumPriceSale>
+    <IfEveryOne>false</IfEveryOne>
+    <StartrSale>28/04/2026 01:47:58</StartrSale>
+    <EndSale>28/04/2026 01:47:58</EndSale>
+  </Sale>
+  <Sale>
+    <SaleId>43</SaleId>
+    <ProductID>1015</ProductID>
+    <MinProductSale>4</MinProductSale>
+    <SumPriceSale>35</SumPriceSale>
+    <IfEveryOne>true</IfEveryOne>
+    <StartrSale>28/04/2026 01:47:58</StartrSale>
+    <EndSale>05/05/2026 01:47:58</EndSale>
+  </Sale>
+  <Sale>
+    <SaleId>44</SaleId>
+    <ProductID>1016</ProductID>
+    <MinProductSale>2</MinProductSale>
+    <SumPriceSale>50</SumPriceSale>
+    <IfEveryOne>false</IfEveryOne>
+    <StartrSale>28/04/2026 01:47:59</StartrSale>
+    <EndSale>03/05/2026 01:47:59</EndSale>
+  </Sale>
+  <Sale>
+    <SaleId>45</SaleId>
+    <ProductID>1017</ProductID>
+    <MinProductSale>5</MinProductSale>
+    <SumPriceSale>270</SumPriceSale>
+    <IfEveryOne>false</IfEveryOne>
+    <StartrSale>28/04/2026 01:47:59</StartrSale>
+    <EndSale>12/05/2026 01:47:59</EndSale>
+  </Sale>
+  <Sale>
+    <SaleId>46</SaleId>
+    <ProductID>1023</ProductID>
+    <MinProductSale>3</MinProductSale>
+    <SumPriceSale>110</SumPriceSale>
+    <IfEveryOne>true</IfEveryOne>
+    <StartrSale>28/04/2026 01:53:43</StartrSale>
+    <EndSale>01/05/2026 01:53:43</EndSale>
+  </Sale>
+  <Sale>
+    <SaleId>47</SaleId>
+    <ProductID>1024</ProductID>
+    <MinProductSale>2</MinProductSale>
+    <SumPriceSale>90</SumPriceSale>
+    <IfEveryOne>false</IfEveryOne>
+    <StartrSale>28/04/2026 01:53:43</StartrSale>
+    <EndSale>08/05/2026 01:53:43</EndSale>
+  </Sale>
+  <Sale>
+    <SaleId>48</SaleId>
+    <ProductID>1025</ProductID>
+    <MinProductSale>4</MinProductSale>
+    <SumPriceSale>35</SumPriceSale>
+    <IfEveryOne>true</IfEveryOne>
+    <StartrSale>28/04/2026 01:53:43</StartrSale>
+    <EndSale>05/05/2026 01:53:43</EndSale>
+  </Sale>
+  <Sale>
+    <SaleId>49</SaleId>
+    <ProductID>1026</ProductID>
+    <MinProductSale>2</MinProductSale>
+    <SumPriceSale>50</SumPriceSale>
+    <IfEveryOne>false</IfEveryOne>
+    <StartrSale>28/04/2026 01:53:43</StartrSale>
+    <EndSale>03/05/2026 01:53:43</EndSale>
+  </Sale>
+  <Sale>
+    <SaleId>185</SaleId>
+    <ProductID>1009</ProductID>
+    <MinProductSale>1</MinProductSale>
+    <SumPriceSale>40</SumPriceSale>
+    <IfEveryOne>false</IfEveryOne>
+    <StartrSale>03/05/2026 00:00:00</StartrSale>
+    <EndSale>03/05/2026 00:00:00</EndSale>
+  </Sale>
+</ArrayOfSale>

@@ -1,0 +1,108 @@
+M:\פרויקט C#\4.2 - Copy\DotNet2026_8276_9203\BL\bin\Debug\net6.0\BL.deps.json
+M:\פרויקט C#\4.2 - Copy\DotNet2026_8276_9203\BL\bin\Debug\net6.0\BL.dll
+M:\פרויקט C#\4.2 - Copy\DotNet2026_8276_9203\BL\bin\Debug\net6.0\BL.pdb
+M:\פרויקט C#\4.2 - Copy\DotNet2026_8276_9203\BL\bin\Debug\net6.0\DalFacade.dll
+M:\פרויקט C#\4.2 - Copy\DotNet2026_8276_9203\BL\bin\Debug\net6.0\DalList.dll
+M:\פרויקט C#\4.2 - Copy\DotNet2026_8276_9203\BL\bin\Debug\net6.0\Tools.dll
+M:\פרויקט C#\4.2 - Copy\DotNet2026_8276_9203\BL\bin\Debug\net6.0\DalFacade.pdb
+M:\פרויקט C#\4.2 - Copy\DotNet2026_8276_9203\BL\bin\Debug\net6.0\DalList.pdb
+M:\פרויקט C#\4.2 - Copy\DotNet2026_8276_9203\BL\bin\Debug\net6.0\Tools.pdb
+M:\פרויקט C#\4.2 - Copy\DotNet2026_8276_9203\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+M:\פרויקט C#\4.2 - Copy\DotNet2026_8276_9203\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+M:\פרויקט C#\4.2 - Copy\DotNet2026_8276_9203\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+M:\פרויקט C#\4.2 - Copy\DotNet2026_8276_9203\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+M:\פרויקט C#\4.2 - Copy\DotNet2026_8276_9203\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+M:\פרויקט C#\4.2 - Copy\DotNet2026_8276_9203\BL\obj\Debug\net6.0\BL.csproj.CopyComplete
+M:\פרויקט C#\4.2 - Copy\DotNet2026_8276_9203\BL\obj\Debug\net6.0\BL.dll
+M:\פרויקט C#\4.2 - Copy\DotNet2026_8276_9203\BL\obj\Debug\net6.0\refint\BL.dll
+M:\פרויקט C#\4.2 - Copy\DotNet2026_8276_9203\BL\obj\Debug\net6.0\BL.pdb
+M:\פרויקט C#\4.2 - Copy\DotNet2026_8276_9203\BL\obj\Debug\net6.0\ref\BL.dll
+E:\תכנות\מתקדם C#\4.3\DotNet2026_8276_9203\BL\bin\Debug\net6.0\BL.deps.json
+E:\תכנות\מתקדם C#\4.3\DotNet2026_8276_9203\BL\bin\Debug\net6.0\BL.dll
+E:\תכנות\מתקדם C#\4.3\DotNet2026_8276_9203\BL\bin\Debug\net6.0\BL.pdb
+E:\תכנות\מתקדם C#\4.3\DotNet2026_8276_9203\BL\bin\Debug\net6.0\DalFacade.dll
+E:\תכנות\מתקדם C#\4.3\DotNet2026_8276_9203\BL\bin\Debug\net6.0\DalList.dll
+E:\תכנות\מתקדם C#\4.3\DotNet2026_8276_9203\BL\bin\Debug\net6.0\Tools.dll
+E:\תכנות\מתקדם C#\4.3\DotNet2026_8276_9203\BL\bin\Debug\net6.0\DalFacade.pdb
+E:\תכנות\מתקדם C#\4.3\DotNet2026_8276_9203\BL\bin\Debug\net6.0\DalList.pdb
+E:\תכנות\מתקדם C#\4.3\DotNet2026_8276_9203\BL\bin\Debug\net6.0\Tools.pdb
+E:\תכנות\מתקדם C#\4.3\DotNet2026_8276_9203\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+E:\תכנות\מתקדם C#\4.3\DotNet2026_8276_9203\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\תכנות\מתקדם C#\4.3\DotNet2026_8276_9203\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+E:\תכנות\מתקדם C#\4.3\DotNet2026_8276_9203\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+E:\תכנות\מתקדם C#\4.3\DotNet2026_8276_9203\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+E:\תכנות\מתקדם C#\4.3\DotNet2026_8276_9203\BL\obj\Debug\net6.0\BL.sourcelink.json
+E:\תכנות\מתקדם C#\4.3\DotNet2026_8276_9203\BL\obj\Debug\net6.0\BL.csproj.Up2Date
+E:\תכנות\מתקדם C#\4.3\DotNet2026_8276_9203\BL\obj\Debug\net6.0\BL.dll
+E:\תכנות\מתקדם C#\4.3\DotNet2026_8276_9203\BL\obj\Debug\net6.0\refint\BL.dll
+E:\תכנות\מתקדם C#\4.3\DotNet2026_8276_9203\BL\obj\Debug\net6.0\BL.pdb
+E:\תכנות\מתקדם C#\4.3\DotNet2026_8276_9203\BL\obj\Debug\net6.0\ref\BL.dll
+D:\C-project-middle\DotNet2026_8276_9203\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+D:\C-project-middle\DotNet2026_8276_9203\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-project-middle\DotNet2026_8276_9203\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+D:\C-project-middle\DotNet2026_8276_9203\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+D:\C-project-middle\DotNet2026_8276_9203\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+D:\C-project-middle\DotNet2026_8276_9203\BL\obj\Debug\net6.0\BL.sourcelink.json
+D:\C-project-middle\DotNet2026_8276_9203\BL\obj\Debug\net6.0\BL.dll
+D:\C-project-middle\DotNet2026_8276_9203\BL\obj\Debug\net6.0\refint\BL.dll
+D:\C-project-middle\DotNet2026_8276_9203\BL\obj\Debug\net6.0\BL.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\bin\Debug\net6.0\BL.deps.json
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\bin\Debug\net6.0\BL.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\bin\Debug\net6.0\BL.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\bin\Debug\net6.0\DalFacade.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\bin\Debug\net6.0\DalList.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\bin\Debug\net6.0\Tools.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\bin\Debug\net6.0\DalFacade.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\bin\Debug\net6.0\DalList.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\bin\Debug\net6.0\Tools.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\net6.0\BL.sourcelink.json
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\net6.0\BL.csproj.Up2Date
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\net6.0\BL.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\net6.0\refint\BL.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\net6.0\BL.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\net6.0\ref\BL.dll
+E:\CSharp-3Layer-Model\BL\bin\Debug\net6.0\BL.deps.json
+E:\CSharp-3Layer-Model\BL\bin\Debug\net6.0\BL.dll
+E:\CSharp-3Layer-Model\BL\bin\Debug\net6.0\BL.pdb
+E:\CSharp-3Layer-Model\BL\bin\Debug\net6.0\DalFacade.dll
+E:\CSharp-3Layer-Model\BL\bin\Debug\net6.0\DalList.dll
+E:\CSharp-3Layer-Model\BL\bin\Debug\net6.0\Tools.dll
+E:\CSharp-3Layer-Model\BL\bin\Debug\net6.0\DalFacade.pdb
+E:\CSharp-3Layer-Model\BL\bin\Debug\net6.0\DalList.pdb
+E:\CSharp-3Layer-Model\BL\bin\Debug\net6.0\Tools.pdb
+E:\CSharp-3Layer-Model\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+E:\CSharp-3Layer-Model\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp-3Layer-Model\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+E:\CSharp-3Layer-Model\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+E:\CSharp-3Layer-Model\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+E:\CSharp-3Layer-Model\BL\obj\Debug\net6.0\BL.dll
+E:\CSharp-3Layer-Model\BL\obj\Debug\net6.0\refint\BL.dll
+E:\CSharp-3Layer-Model\BL\obj\Debug\net6.0\BL.pdb
+E:\CSharp-3Layer-Model\BL\obj\Debug\net6.0\ref\BL.dll
+E:\CSharp-3Layer-Model\BL\obj\Debug\net6.0\BL.sourcelink.json
+E:\CSharp-3Layer-Model\BL\obj\Debug\net6.0\BL.csproj.Up2Date
+C:\Users\1\Desktop\CSharp-3Layer-Model2\BL\bin\Debug\net6.0\BL.deps.json
+C:\Users\1\Desktop\CSharp-3Layer-Model2\BL\bin\Debug\net6.0\BL.dll
+C:\Users\1\Desktop\CSharp-3Layer-Model2\BL\bin\Debug\net6.0\BL.pdb
+C:\Users\1\Desktop\CSharp-3Layer-Model2\BL\bin\Debug\net6.0\DalFacade.dll
+C:\Users\1\Desktop\CSharp-3Layer-Model2\BL\bin\Debug\net6.0\DalList.dll
+C:\Users\1\Desktop\CSharp-3Layer-Model2\BL\bin\Debug\net6.0\Tools.dll
+C:\Users\1\Desktop\CSharp-3Layer-Model2\BL\bin\Debug\net6.0\DalFacade.pdb
+C:\Users\1\Desktop\CSharp-3Layer-Model2\BL\bin\Debug\net6.0\DalList.pdb
+C:\Users\1\Desktop\CSharp-3Layer-Model2\BL\bin\Debug\net6.0\Tools.pdb
+C:\Users\1\Desktop\CSharp-3Layer-Model2\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\CSharp-3Layer-Model2\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\CSharp-3Layer-Model2\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\CSharp-3Layer-Model2\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+C:\Users\1\Desktop\CSharp-3Layer-Model2\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\CSharp-3Layer-Model2\BL\obj\Debug\net6.0\BL.sourcelink.json
+C:\Users\1\Desktop\CSharp-3Layer-Model2\BL\obj\Debug\net6.0\BL.csproj.Up2Date
+C:\Users\1\Desktop\CSharp-3Layer-Model2\BL\obj\Debug\net6.0\BL.dll
+C:\Users\1\Desktop\CSharp-3Layer-Model2\BL\obj\Debug\net6.0\refint\BL.dll
+C:\Users\1\Desktop\CSharp-3Layer-Model2\BL\obj\Debug\net6.0\BL.pdb
+C:\Users\1\Desktop\CSharp-3Layer-Model2\BL\obj\Debug\net6.0\ref\BL.dll

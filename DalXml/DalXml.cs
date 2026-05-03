@@ -1,0 +1,23 @@
+﻿using DalApi;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Dal
+{
+    internal sealed class DalXml:IDal
+    {
+        public ICustemer Custemer {  get; }= new CustemerImplementation();
+        public ISale Sale { get; } = new SaleImplementation();
+        public IProduct Product { get; } = new ProductImplementation();
+
+        private DalXml() { }
+        private static readonly DalXml instance = new DalXml();
+        public static DalXml Instance
+        {
+            get { return instance; }
+        }
+    }
+}

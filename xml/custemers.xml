@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustemer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Custemer>
+    <CustemerID>326458495</CustemerID>
+    <CustemerName>Avram</CustemerName>
+    <Adress>jerusalem</Adress>
+    <Phone>548597494</Phone>
+  </Custemer>
+  <Custemer>
+    <CustemerID>741852963</CustemerID>
+    <CustemerName>Shoshana</CustemerName>
+    <Adress>BB</Adress>
+    <Phone>538597494</Phone>
+  </Custemer>
+  <Custemer>
+    <CustemerID>789456123</CustemerID>
+    <CustemerName>NOA</CustemerName>
+    <Adress>Modiin</Adress>
+    <Phone>525697494</Phone>
+  </Custemer>
+  <Custemer>
+    <CustemerID>321654987</CustemerID>
+    <CustemerName>kui</CustemerName>
+    <Adress>kiku</Adress>
+    <Phone>556760558</Phone>
+  </Custemer>
+  <Custemer>
+    <CustemerID>3216547</CustemerID>
+    <CustemerName>גילי</CustemerName>
+    <Adress>אנהר</Adress>
+    <Phone>798</Phone>
+  </Custemer>
+  <Custemer>
+    <CustemerID>123456789</CustemerID>
+    <CustemerName>יעל</CustemerName>
+    <Adress>מרומי</Adress>
+    <Phone>556760558</Phone>
+  </Custemer>
+</ArrayOfCustemer>

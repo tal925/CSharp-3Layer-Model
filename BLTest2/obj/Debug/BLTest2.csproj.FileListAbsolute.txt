@@ -1,0 +1,16 @@
+M:\git\CSharp-3Layer-Model\bin\BLTest2.exe
+M:\git\CSharp-3Layer-Model\bin\BLTest2.deps.json
+M:\git\CSharp-3Layer-Model\bin\BLTest2.runtimeconfig.json
+M:\git\CSharp-3Layer-Model\bin\BLTest2.dll
+M:\git\CSharp-3Layer-Model\bin\BLTest2.pdb
+M:\git\CSharp-3Layer-Model\BLTest2\obj\Debug\BLTest2.csproj.AssemblyReference.cache
+M:\git\CSharp-3Layer-Model\BLTest2\obj\Debug\BLTest2.GeneratedMSBuildEditorConfig.editorconfig
+M:\git\CSharp-3Layer-Model\BLTest2\obj\Debug\BLTest2.AssemblyInfoInputs.cache
+M:\git\CSharp-3Layer-Model\BLTest2\obj\Debug\BLTest2.AssemblyInfo.cs
+M:\git\CSharp-3Layer-Model\BLTest2\obj\Debug\BLTest2.csproj.CoreCompileInputs.cache
+M:\git\CSharp-3Layer-Model\BLTest2\obj\Debug\BLTest2.csproj.CopyComplete
+M:\git\CSharp-3Layer-Model\BLTest2\obj\Debug\BLTest2.dll
+M:\git\CSharp-3Layer-Model\BLTest2\obj\Debug\refint\BLTest2.dll
+M:\git\CSharp-3Layer-Model\BLTest2\obj\Debug\BLTest2.pdb
+M:\git\CSharp-3Layer-Model\BLTest2\obj\Debug\BLTest2.genruntimeconfig.cache
+M:\git\CSharp-3Layer-Model\BLTest2\obj\Debug\ref\BLTest2.dll

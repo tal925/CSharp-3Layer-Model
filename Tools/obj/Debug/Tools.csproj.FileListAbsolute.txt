@@ -1,0 +1,72 @@
+M:\git\CSharp-3Layer-Model\bin\Tools.deps.json
+M:\git\CSharp-3Layer-Model\bin\Tools.dll
+M:\git\CSharp-3Layer-Model\bin\Tools.pdb
+M:\git\CSharp-3Layer-Model\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+M:\git\CSharp-3Layer-Model\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+M:\git\CSharp-3Layer-Model\Tools\obj\Debug\Tools.AssemblyInfo.cs
+M:\git\CSharp-3Layer-Model\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+M:\git\CSharp-3Layer-Model\Tools\obj\Debug\Tools.dll
+M:\git\CSharp-3Layer-Model\Tools\obj\Debug\refint\Tools.dll
+M:\git\CSharp-3Layer-Model\Tools\obj\Debug\Tools.pdb
+M:\git\CSharp-3Layer-Model\Tools\obj\Debug\ref\Tools.dll
+M:\git\CSharp-3Layer-Model\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\Tools.deps.json
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\Tools.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\Tools.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\obj\Debug\Tools.AssemblyInfo.cs
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\obj\Debug\Tools.sourcelink.json
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\obj\Debug\Tools.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\obj\Debug\refint\Tools.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\obj\Debug\Tools.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\obj\Debug\ref\Tools.dll
+C:\Users\1\Desktop\CSharp-3Layer-Model\bin\Tools.deps.json
+C:\Users\1\Desktop\CSharp-3Layer-Model\bin\Tools.dll
+C:\Users\1\Desktop\CSharp-3Layer-Model\bin\Tools.pdb
+C:\Users\1\Desktop\CSharp-3Layer-Model\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\CSharp-3Layer-Model\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\CSharp-3Layer-Model\Tools\obj\Debug\Tools.AssemblyInfo.cs
+C:\Users\1\Desktop\CSharp-3Layer-Model\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\CSharp-3Layer-Model\Tools\obj\Debug\Tools.sourcelink.json
+C:\Users\1\Desktop\CSharp-3Layer-Model\Tools\obj\Debug\Tools.dll
+C:\Users\1\Desktop\CSharp-3Layer-Model\Tools\obj\Debug\refint\Tools.dll
+C:\Users\1\Desktop\CSharp-3Layer-Model\Tools\obj\Debug\Tools.pdb
+C:\Users\1\Desktop\CSharp-3Layer-Model\Tools\obj\Debug\ref\Tools.dll
+C:\Users\1\Downloads\CSharp-3Layer-Model\bin\Tools.deps.json
+C:\Users\1\Downloads\CSharp-3Layer-Model\bin\Tools.dll
+C:\Users\1\Downloads\CSharp-3Layer-Model\bin\Tools.pdb
+C:\Users\1\Downloads\CSharp-3Layer-Model\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Downloads\CSharp-3Layer-Model\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+C:\Users\1\Downloads\CSharp-3Layer-Model\Tools\obj\Debug\Tools.AssemblyInfo.cs
+C:\Users\1\Downloads\CSharp-3Layer-Model\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\CSharp-3Layer-Model\Tools\obj\Debug\Tools.sourcelink.json
+C:\Users\1\Downloads\CSharp-3Layer-Model\Tools\obj\Debug\Tools.dll
+C:\Users\1\Downloads\CSharp-3Layer-Model\Tools\obj\Debug\refint\Tools.dll
+C:\Users\1\Downloads\CSharp-3Layer-Model\Tools\obj\Debug\Tools.pdb
+C:\Users\1\Downloads\CSharp-3Layer-Model\Tools\obj\Debug\ref\Tools.dll
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\bin\Tools.deps.json
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\bin\Tools.dll
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\bin\Tools.pdb
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\Tools\obj\Debug\Tools.AssemblyInfo.cs
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\Tools\obj\Debug\Tools.sourcelink.json
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\Tools\obj\Debug\Tools.dll
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\Tools\obj\Debug\refint\Tools.dll
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\Tools\obj\Debug\Tools.pdb
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\Tools\obj\Debug\ref\Tools.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\bin\Tools.deps.json
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\bin\Tools.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\bin\Tools.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\Tools\obj\Debug\Tools.AssemblyInfo.cs
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\Tools\obj\Debug\Tools.sourcelink.json
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\Tools\obj\Debug\Tools.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\Tools\obj\Debug\refint\Tools.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\Tools\obj\Debug\Tools.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\Tools\obj\Debug\ref\Tools.dll

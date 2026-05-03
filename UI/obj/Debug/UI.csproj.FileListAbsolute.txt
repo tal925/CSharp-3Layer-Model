@@ -1,0 +1,133 @@
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\UI.exe
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\UI.deps.json
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\UI.runtimeconfig.json
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\UI.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\UI.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.CashierForm.resources
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.Form1.resources
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.AssemblyInfo.cs
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.sourcelink.json
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.csproj.Up2Date
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\refint\UI.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.genruntimeconfig.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\ref\UI.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.FromManagerMenu.resources
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.FromCustemerList.resources
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.FromCustemer.resources
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.FromProduct.resources
+C:\Users\1\Desktop\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.FromProductList.resources
+C:\Users\1\Desktop\CSharp-3Layer-Model\bin\UI.exe
+C:\Users\1\Desktop\CSharp-3Layer-Model\bin\UI.deps.json
+C:\Users\1\Desktop\CSharp-3Layer-Model\bin\UI.runtimeconfig.json
+C:\Users\1\Desktop\CSharp-3Layer-Model\bin\UI.dll
+C:\Users\1\Desktop\CSharp-3Layer-Model\bin\UI.pdb
+C:\Users\1\Desktop\CSharp-3Layer-Model\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\CSharp-3Layer-Model\UI\obj\Debug\UI.CashierForm.resources
+C:\Users\1\Desktop\CSharp-3Layer-Model\UI\obj\Debug\UI.Form1.resources
+C:\Users\1\Desktop\CSharp-3Layer-Model\UI\obj\Debug\UI.FromCustemer.resources
+C:\Users\1\Desktop\CSharp-3Layer-Model\UI\obj\Debug\UI.FromCustemerList.resources
+C:\Users\1\Desktop\CSharp-3Layer-Model\UI\obj\Debug\UI.FromManagerMenu.resources
+C:\Users\1\Desktop\CSharp-3Layer-Model\UI\obj\Debug\UI.FromProduct.resources
+C:\Users\1\Desktop\CSharp-3Layer-Model\UI\obj\Debug\UI.FromProductList.resources
+C:\Users\1\Desktop\CSharp-3Layer-Model\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\1\Desktop\CSharp-3Layer-Model\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\CSharp-3Layer-Model\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\CSharp-3Layer-Model\UI\obj\Debug\UI.AssemblyInfo.cs
+C:\Users\1\Desktop\CSharp-3Layer-Model\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\CSharp-3Layer-Model\UI\obj\Debug\UI.sourcelink.json
+C:\Users\1\Desktop\CSharp-3Layer-Model\UI\obj\Debug\UI.csproj.Up2Date
+C:\Users\1\Desktop\CSharp-3Layer-Model\UI\obj\Debug\UI.dll
+C:\Users\1\Desktop\CSharp-3Layer-Model\UI\obj\Debug\refint\UI.dll
+C:\Users\1\Desktop\CSharp-3Layer-Model\UI\obj\Debug\UI.pdb
+C:\Users\1\Desktop\CSharp-3Layer-Model\UI\obj\Debug\UI.genruntimeconfig.cache
+C:\Users\1\Desktop\CSharp-3Layer-Model\UI\obj\Debug\ref\UI.dll
+C:\Users\1\Desktop\CSharp-3Layer-Model\UI\obj\Debug\UI.FromSale.resources
+C:\Users\1\Desktop\CSharp-3Layer-Model\UI\obj\Debug\UI.FromSalesList.resources
+C:\Users\1\Downloads\CSharp-3Layer-Model\bin\UI.exe
+C:\Users\1\Downloads\CSharp-3Layer-Model\bin\UI.deps.json
+C:\Users\1\Downloads\CSharp-3Layer-Model\bin\UI.runtimeconfig.json
+C:\Users\1\Downloads\CSharp-3Layer-Model\bin\UI.dll
+C:\Users\1\Downloads\CSharp-3Layer-Model\bin\UI.pdb
+C:\Users\1\Downloads\CSharp-3Layer-Model\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\1\Downloads\CSharp-3Layer-Model\UI\obj\Debug\UI.CashierForm.resources
+C:\Users\1\Downloads\CSharp-3Layer-Model\UI\obj\Debug\UI.Form1.resources
+C:\Users\1\Downloads\CSharp-3Layer-Model\UI\obj\Debug\UI.FromCustemer.resources
+C:\Users\1\Downloads\CSharp-3Layer-Model\UI\obj\Debug\UI.FromCustemerList.resources
+C:\Users\1\Downloads\CSharp-3Layer-Model\UI\obj\Debug\UI.FromManagerMenu.resources
+C:\Users\1\Downloads\CSharp-3Layer-Model\UI\obj\Debug\UI.FromProduct.resources
+C:\Users\1\Downloads\CSharp-3Layer-Model\UI\obj\Debug\UI.FromProductList.resources
+C:\Users\1\Downloads\CSharp-3Layer-Model\UI\obj\Debug\UI.FromSale.resources
+C:\Users\1\Downloads\CSharp-3Layer-Model\UI\obj\Debug\UI.FromSalesList.resources
+C:\Users\1\Downloads\CSharp-3Layer-Model\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\1\Downloads\CSharp-3Layer-Model\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Downloads\CSharp-3Layer-Model\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+C:\Users\1\Downloads\CSharp-3Layer-Model\UI\obj\Debug\UI.AssemblyInfo.cs
+C:\Users\1\Downloads\CSharp-3Layer-Model\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\CSharp-3Layer-Model\UI\obj\Debug\UI.sourcelink.json
+C:\Users\1\Downloads\CSharp-3Layer-Model\UI\obj\Debug\UI.csproj.Up2Date
+C:\Users\1\Downloads\CSharp-3Layer-Model\UI\obj\Debug\UI.dll
+C:\Users\1\Downloads\CSharp-3Layer-Model\UI\obj\Debug\refint\UI.dll
+C:\Users\1\Downloads\CSharp-3Layer-Model\UI\obj\Debug\UI.pdb
+C:\Users\1\Downloads\CSharp-3Layer-Model\UI\obj\Debug\UI.genruntimeconfig.cache
+C:\Users\1\Downloads\CSharp-3Layer-Model\UI\obj\Debug\ref\UI.dll
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\bin\UI.exe
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\bin\UI.deps.json
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\bin\UI.runtimeconfig.json
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\bin\UI.dll
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\bin\UI.pdb
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\UI\obj\Debug\UI.CashierForm.resources
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\UI\obj\Debug\UI.Form1.resources
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\UI\obj\Debug\UI.FromCustemer.resources
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\UI\obj\Debug\UI.FromCustemerList.resources
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\UI\obj\Debug\UI.FromManagerMenu.resources
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\UI\obj\Debug\UI.FromProduct.resources
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\UI\obj\Debug\UI.FromProductList.resources
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\UI\obj\Debug\UI.FromSale.resources
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\UI\obj\Debug\UI.FromSalesList.resources
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\UI\obj\Debug\UI.AssemblyInfo.cs
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\UI\obj\Debug\UI.sourcelink.json
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\UI\obj\Debug\UI.csproj.Up2Date
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\UI\obj\Debug\UI.dll
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\UI\obj\Debug\refint\UI.dll
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\UI\obj\Debug\UI.pdb
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\UI\obj\Debug\UI.genruntimeconfig.cache
+C:\Users\1\Downloads\פרויקט מצורף יעל וגילי סופי כמעט\CSharp-3Layer-Model\UI\obj\Debug\ref\UI.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\bin\UI.exe
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\bin\UI.deps.json
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\bin\UI.runtimeconfig.json
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\bin\UI.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\bin\UI.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\UI\obj\Debug\UI.CashierForm.resources
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\UI\obj\Debug\UI.Form1.resources
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\UI\obj\Debug\UI.FromCustemer.resources
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\UI\obj\Debug\UI.FromCustemerList.resources
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\UI\obj\Debug\UI.FromManagerMenu.resources
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\UI\obj\Debug\UI.FromProduct.resources
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\UI\obj\Debug\UI.FromProductList.resources
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\UI\obj\Debug\UI.FromSale.resources
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\UI\obj\Debug\UI.FromSalesList.resources
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\UI\obj\Debug\UI.AssemblyInfo.cs
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\UI\obj\Debug\UI.sourcelink.json
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\UI\obj\Debug\UI.csproj.Up2Date
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\UI\obj\Debug\UI.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\UI\obj\Debug\refint\UI.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\UI\obj\Debug\UI.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\UI\obj\Debug\UI.genruntimeconfig.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\UI\obj\Debug\ref\UI.dll
