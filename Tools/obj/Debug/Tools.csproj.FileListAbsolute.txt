@@ -70,3 +70,27 @@ C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\Tools\obj\D
 C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\Tools\obj\Debug\refint\Tools.dll
 C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\Tools\obj\Debug\Tools.pdb
 C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\Tools\obj\Debug\ref\Tools.dll
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\Tools.deps.json
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\Tools.dll
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\Tools.pdb
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\obj\Debug\Tools.AssemblyInfo.cs
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\obj\Debug\Tools.sourcelink.json
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\obj\Debug\Tools.dll
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\obj\Debug\refint\Tools.dll
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\obj\Debug\Tools.pdb
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\obj\Debug\ref\Tools.dll
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\Tools.deps.json
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\Tools.dll
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\Tools.pdb
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\obj\Debug\Tools.AssemblyInfo.cs
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\obj\Debug\Tools.sourcelink.json
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\obj\Debug\Tools.dll
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\obj\Debug\refint\Tools.dll
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\obj\Debug\Tools.pdb
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\Tools\obj\Debug\ref\Tools.dll

@@ -36,4 +36,10 @@
     <Adress>מרומי</Adress>
     <Phone>556760558</Phone>
   </Custemer>
+  <Custemer>
+    <CustemerID>2545557</CustemerID>
+    <CustemerName>תמר</CustemerName>
+    <Adress>יעדג</Adress>
+    <Phone>587225</Phone>
+  </Custemer>
 </ArrayOfCustemer>

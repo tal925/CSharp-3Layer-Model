@@ -81,3 +81,31 @@ C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\BL\obj\Debu
 C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\BL\obj\Debug\refint\BL.dll
 C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\BL\obj\Debug\BL.pdb
 C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\BL\obj\Debug\ref\BL.dll
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\BL.deps.json
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\BL.dll
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\BL.pdb
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\BL.AssemblyInfo.cs
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\BL.sourcelink.json
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\BL.csproj.Up2Date
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\BL.dll
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\refint\BL.dll
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\BL.pdb
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\ref\BL.dll
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\BL.deps.json
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\BL.dll
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\BL.pdb
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\BL.AssemblyInfo.cs
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\BL.sourcelink.json
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\BL.csproj.Up2Date
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\BL.dll
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\refint\BL.dll
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\BL.pdb
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\BL\obj\Debug\ref\BL.dll

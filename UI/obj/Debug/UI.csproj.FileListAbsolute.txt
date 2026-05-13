@@ -131,3 +131,57 @@ C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\UI\obj\Debu
 C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\UI\obj\Debug\UI.pdb
 C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\UI\obj\Debug\UI.genruntimeconfig.cache
 C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\UI\obj\Debug\ref\UI.dll
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\UI.exe
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\UI.deps.json
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\UI.runtimeconfig.json
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\UI.dll
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\UI.pdb
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.CashierForm.resources
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.Form1.resources
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.FromCustemer.resources
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.FromCustemerList.resources
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.FromManagerMenu.resources
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.FromProduct.resources
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.FromProductList.resources
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.FromSale.resources
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.FromSalesList.resources
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.AssemblyInfo.cs
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.sourcelink.json
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.csproj.Up2Date
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.dll
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\refint\UI.dll
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.pdb
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.genruntimeconfig.cache
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\ref\UI.dll
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\UI.exe
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\UI.deps.json
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\UI.runtimeconfig.json
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\UI.dll
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\UI.pdb
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.CashierForm.resources
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.Form1.resources
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.FromCustemer.resources
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.FromCustemerList.resources
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.FromManagerMenu.resources
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.FromProduct.resources
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.FromProductList.resources
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.FromSale.resources
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.FromSalesList.resources
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.AssemblyInfo.cs
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.sourcelink.json
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.csproj.Up2Date
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.dll
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\refint\UI.dll
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.pdb
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\UI.genruntimeconfig.cache
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\UI\obj\Debug\ref\UI.dll

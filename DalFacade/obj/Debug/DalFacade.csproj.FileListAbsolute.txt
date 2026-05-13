@@ -369,3 +369,31 @@ C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\DalFacade\o
 C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\DalFacade\obj\Debug\refint\DalFacade.dll
 C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\DalFacade\obj\Debug\DalFacade.pdb
 C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\DalFacade\obj\Debug\ref\DalFacade.dll
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\DalFacade.deps.json
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\DalFacade.dll
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\DalFacade.pdb
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalFacade\obj\Debug\DalFacade.sourcelink.json
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalFacade\obj\Debug\DalFacade.csproj.Up2Date
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalFacade\obj\Debug\DalFacade.dll
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalFacade\obj\Debug\refint\DalFacade.dll
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalFacade\obj\Debug\DalFacade.pdb
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalFacade\obj\Debug\ref\DalFacade.dll
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\DalFacade.deps.json
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\DalFacade.dll
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\DalFacade.pdb
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalFacade\obj\Debug\DalFacade.sourcelink.json
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalFacade\obj\Debug\DalFacade.csproj.Up2Date
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalFacade\obj\Debug\DalFacade.dll
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalFacade\obj\Debug\refint\DalFacade.dll
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalFacade\obj\Debug\DalFacade.pdb
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalFacade\obj\Debug\ref\DalFacade.dll

@@ -398,3 +398,31 @@ C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\DalList\obj
 C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\DalList\obj\Debug\refint\DalList.dll
 C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\DalList\obj\Debug\DalList.pdb
 C:\Users\1\Desktop\‏‏תיקיה חדשה (2)\CSharp-3Layer-Model\DalList\obj\Debug\ref\DalList.dll
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\DalList.deps.json
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\DalList.dll
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\DalList.pdb
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalList\obj\Debug\DalList.AssemblyInfo.cs
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalList\obj\Debug\DalList.sourcelink.json
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalList\obj\Debug\DalList.csproj.Up2Date
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalList\obj\Debug\DalList.dll
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalList\obj\Debug\refint\DalList.dll
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalList\obj\Debug\DalList.pdb
+C:\לימודים\יד\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalList\obj\Debug\ref\DalList.dll
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\DalList.deps.json
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\DalList.dll
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\bin\DalList.pdb
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalList\obj\Debug\DalList.AssemblyInfo.cs
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalList\obj\Debug\DalList.sourcelink.json
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalList\obj\Debug\DalList.csproj.Up2Date
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalList\obj\Debug\DalList.dll
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalList\obj\Debug\refint\DalList.dll
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalList\obj\Debug\DalList.pdb
+C:\לימודים\יד\C# מתקדם\‏‏תיקיה חדשה\CSharp-3Layer-Model\DalList\obj\Debug\ref\DalList.dll
